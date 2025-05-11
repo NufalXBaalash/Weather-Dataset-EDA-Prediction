@@ -106,5 +106,5 @@ If you find the project helpful, please ⭐ it!
 
 ## 📩 Contact
 
-Built by [NufalXBaalash]([https://www.kaggle.com/ahmedbaalash](https://github.com/NufalXBaalash))
+Built by [NufalXBaalash](https://github.com/NufalXBaalash))
 For collaboration or questions, reach out on GitHub or Kaggle.
