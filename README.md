@@ -1,7 +1,7 @@
 # Weather Data 🌦️ EDA & Prediction 🔮
 
 This project analyzes historical weather data and builds a **machine learning model to predict future weather conditions**.
-It includes both exploratory data analysis and predictive modeling — all implemented inside [`weather_eda_prediction.ipynb`](weather_eda_prediction.ipynb).
+It includes both exploratory data analysis and predictive modeling — all implemented inside [`Here`](weather-data-eda-prediction.ipynb).
 
 ---
 
@@ -28,7 +28,7 @@ Weather_EDA_Prediction/
 
 ## 🚀 How the Project Works
 
-The full workflow is available in [weather\_eda\_prediction.ipynb](weather_eda_prediction.ipynb):
+The full workflow is available in [`Here`](weather-data-eda-prediction.ipynb):
 
 1. **Import Libraries**
 
