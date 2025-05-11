@@ -1,7 +1,3 @@
-Here's a GitHub-style README for your Weather Data EDA & Prediction project, following the same structure and tone as your Skin Cancer Classification README:
-
----
-
 # Weather Data 🌦️ EDA & Prediction 🔮
 
 This project analyzes historical weather data and builds a **machine learning model to predict future weather conditions**.
@@ -110,9 +106,5 @@ If you find the project helpful, please ⭐ it!
 
 ## 📩 Contact
 
-Built by [Ahmed Khaled Baalash](https://www.kaggle.com/ahmedbaalash)
+Built by [NufalXBaalash]([https://www.kaggle.com/ahmedbaalash](https://github.com/NufalXBaalash))
 For collaboration or questions, reach out on GitHub or Kaggle.
-
----
-
-Would you like me to also generate a `requirements.txt` file for this project?
