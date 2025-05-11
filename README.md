@@ -19,8 +19,9 @@ This project performs **Exploratory Data Analysis (EDA)** to uncover trends and 
 ```
 Weather_EDA_Prediction/
 │
-├── dataset/                    # Weather data (CSV or external)
+├── dataset/                    # Weather data (Url to the dataset)
 ├── weather_eda_prediction.ipynb # Main Jupyter Notebook
+├── requirements.txt           # Install python packages
 └── README.md                  # Project description (this file)
 ```
 
