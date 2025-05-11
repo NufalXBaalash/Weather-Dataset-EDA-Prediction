@@ -108,5 +108,5 @@ If you find the project helpful, please ⭐ it!
 ## 📩 Contact
 
 Built by [NufalXBaalash](https://github.com/NufalXBaalash) , [Osama Kemekem](https://github.com/osamakemekem) , [Yasmeen
-](https://github.com/yasmeenn88)
-For collaboration or questions, reach out on GitHub or Kaggle.
+](https://github.com/yasmeenn88) , [Magda Haytham](https://github.com/magdahaytham)
+For collaboration or questions, reach out on GitHub or Kaggle.  
